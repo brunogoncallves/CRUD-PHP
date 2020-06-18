@@ -1,10 +1,10 @@
 # CRUD-php-senai
 # CRUD-php-Senai
-CRUD com php para aulas do SENAI, DS1
+CRUD com php DS1
 
 **Objetivo**
 
-Fazer um CRUD com Php utilizando os conceitos de Orientação a Objetos.
+CRUD com Php utilizando os conceitos de Orientação a Objetos.
 
 **Justificativa**
 
@@ -13,7 +13,7 @@ Esse projeto faz parte de uma atividade avaliativa da disciplina de Desenvolvime
 **Autores**
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-<img src="Doc/levi.jpeg" width="100px"> | Rafael Levi Batista Costa | [Rafaellevissa](https://github.com/rafaellevissa) | [Linkedin](https://www.linkedin.com/in/rafael-costa-8791b258/) | rafaellevissa@gmail.com
+<img src="Doc/bruno.jpeg" width="100px"> | Rafael Levi Batista Costa | [brunogoncallves](https://github.com/brunogoncallves) | [Linkedin](https://www.linkedin.com/in/bruno-gonçalves-5b19081b0/) | brunogb50@hotmail.com
 
 **Tecnologias**
 
