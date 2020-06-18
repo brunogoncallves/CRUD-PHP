@@ -1,5 +1,4 @@
 # CRUD-php-senai
-# CRUD-php-Senai
 CRUD com php DS1
 
 **Objetivo**
